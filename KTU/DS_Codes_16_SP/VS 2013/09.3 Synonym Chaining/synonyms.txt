@@ -1,0 +1,41 @@
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+7 1  tree agac
+0 0
+0 0
+10 1  gate kapi
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+17 3  priority oncelik root kok signal sinyal
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+32 3  list liste nuts findik object nesne
+0 0
+0 0
+0 0
+0 0
+0 0
+38 1  circuit devre
+39 1  stack yigin
+0 0
